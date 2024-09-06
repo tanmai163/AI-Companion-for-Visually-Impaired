@@ -26,5 +26,5 @@ The **AI Companion for Vision Impaired** project integrates object detection and
 │   ├── texttospeech.py         # Script for text-to-speech conversion
 │   ├── frozen_inference_graph.pb # Pre-trained model weights
 │   ├── ssd_mobilenet_v1_coco.pbtxt # Model configuration file
-└── README.md                   # Project documentation
+└── README.md                   
 
